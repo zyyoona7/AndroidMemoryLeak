@@ -1,2 +1,1 @@
-# AndroidMemoryLeak
-Android memory leak collections.
+## 记录 Android 中各种奇奇怪怪的内存泄漏。
